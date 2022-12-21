@@ -1,0 +1,319 @@
+* {
+  font-family: 'Cabin', sans-serif;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background: rgb(59, 109, 122);
+    background: linear-gradient(90deg, rgba(59, 109, 122, 1) 0%, rgba(20, 26, 60, 1) 50%, rgba(59, 109, 122, 1) 100%);
+}
+
+/* half sphere css */
+.bigbutton {
+  display: block;
+
+  border-radius: 0 0 10rem 10rem;
+  height: 75px;
+  width: 150px;
+  margin: 0;
+  background: rgb(238, 124, 162);
+  background: radial-gradient(circle, rgba(238, 124, 162, 1) 9%, rgba(242, 66, 126, 1) 55%, rgba(235, 31, 99, 1) 98%);
+}
+
+.stage {
+  height: 75px;
+  width: 150px;
+  display: inline-block;
+  margin: 20px;
+  perspective: 1200px;
+  perspective-origin: 50% 50%;
+}
+
+.bigbutton .shadow {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(bigbutton at 50% 50%, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1) 40%, rgba(0, 0, 0, 0) 50%);
+  transform: rotateX(90deg) translateZ(-150px);
+  z-index: -1;
+}
+
+/* juicy title */
+.juice {
+  line-height: 60%;
+  max-width: 60%;
+  font-size: 100px;
+  background: -webkit-linear-gradient(#eee, rgb(63, 138, 229));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.time{
+  background: -webkit-linear-gradient(#eee, rgb(63, 138, 229));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.layout {
+  background-color: rgb(8, 46, 159);
+}
+
+/* pyramid build */
+.pyramid {
+
+  position: relative;
+    width: 500px;
+    height: 500px;
+  transform-style: preserve-3d;
+  transform: rotateY(326deg) rotateX(2deg) rotateZ(359deg);
+
+}
+
+.side {
+  width: 0px;;
+  height: 0px;
+  position: absolute;
+  opacity: 0.1;
+  border: 250px solid transparent;
+  border-bottom: 500px solid rgba(201, 203, 219, 0.542);
+  border-top: 0px;
+}
+
+.one {
+  transform: rotateX(30deg);
+  transform-origin: 0 0;
+}
+
+.two {
+  transform-origin: 250px 0;
+  transform: rotateY(90deg) rotateX(-30deg);
+  border-bottom-color: rgb(115, 189, 222);
+}
+
+.three {
+  transform-origin: 250px 0;
+  transform: rotateY(270deg) rotateX(-30deg);
+  border-bottom-color: rgb(63, 129, 234);
+}
+
+.four {
+  transform-origin: 250px 0;
+  transform: rotateY(0) rotateX(-30deg);
+  border-bottom-color: rgb(47, 118, 170);
+}
+/* .base {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: translateY(73px) rotateX(90deg);
+  border: 0;
+  background: rgb(161, 161, 233);
+} */
+
+@keyframes rotate {
+  from {
+    transform: rotateY(0) rotateX(0deg) rotateZ(0deg);
+  }
+
+  to {
+    transform: rotateY(360deg) rotateX(0deg) rotateZ(0deg);
+  }
+}
+
+.pyramid {
+  animation: rotate 20s linear infinite;
+}
+
+.finger{
+  width: 80px;
+  height: 50px;
+}
+
+.rain {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.rain.back-row {
+  display: none;
+  z-index: 1;
+  bottom: 60px;
+  opacity: 0.5;
+}
+
+body.back-row-toggle .rain.back-row {
+  display: block;
+}
+
+.drop {
+  position: absolute;
+  bottom: 100%;
+  width: 15px;
+  height: 120px;
+  pointer-events: none;
+  animation: drop 0.5s linear infinite;
+}
+
+@keyframes drop {
+  0% {
+    transform: translateY(0vh);
+  }
+  75% {
+    transform: translateY(90vh);
+  }
+  100% {
+    transform: translateY(90vh);
+  }
+}
+
+.stem {
+  width: 1px;
+  height: 60%;
+  margin-left: 7px;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.25));
+  animation: stem 0.5s linear infinite;
+}
+
+@keyframes stem {
+  0% {
+    opacity: 1;
+  }
+  65% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.splat {
+  width: 15px;
+  height: 10px;
+  border-top: 2px dotted rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  opacity: 1;
+  transform: scale(0);
+  animation: splat 0.5s linear infinite;
+  display: none;
+}
+
+body.splat-toggle .splat {
+  display: block;
+}
+
+@keyframes splat {
+  0% {
+    opacity: 1;
+    transform: scale(0);
+  }
+  80% {
+    opacity: 1;
+    transform: scale(0);
+  }
+  90% {
+    opacity: 0.5;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.5);
+  }
+}
+
+.toggles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+}
+
+.toggle {
+  position: absolute;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+  line-height: 51px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.toggle:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.toggle:active {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.toggle.active {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.splat-toggle {
+  top: 110px;
+}
+
+.back-row-toggle {
+  top: 170px;
+}
+
+.single-toggle {
+  top: 230px;
+}
+
+.music-toggle {
+  top: 290px;
+}
+
+.music-toggle2 {
+  top: 350px;
+}
+
+
+body.single-toggle .drop {
+  display: none;
+}
+
+body.single-toggle .drop:nth-child(10) {
+  display: block;
+}
+
+.zbaby {
+  position: absolute;
+  z-index: 5;
+  left: 100px;
+}
+
+.zbabyboy {
+  z-index: 5;
+
+}

@@ -1,0 +1,28 @@
+﻿@{
+  ViewData["Title"] = "Home Page";
+}
+@model Program
+<div class="d-flex justify-content-center mt-3 ">
+  <h1 class="juice text-center mb-3 pb-3">a juice worth the squeeze</h1>
+</div>
+<p class="time text-center">Click the sphere to get started</p>
+<div class="d-flex justify-content-center">
+  <a href=@Url.Action("TestImports")>Test Imports</a>
+</div>
+<div class="d-flex justify-content-center mt-3 ">
+  <section class="stage">
+    <a class="bigbutton" href=@Url.Action("ApplyToJobs")><span class="shadow"></span></a>
+  </section>
+</div>
+<div class="d-flex justify-content-center">
+  <div class="pyramid">
+    <div class="base"></div>
+    <div class="side one"></div>
+    <div class="side two"></div>
+    <div class="side three"></div>
+    <div class="side four"></div>
+  </div>
+</div>
+<div class="text-center d-flex justify-content-center">
+  <h3 class=" time text-center">This is what you've always wanted!</h3>
+</div>

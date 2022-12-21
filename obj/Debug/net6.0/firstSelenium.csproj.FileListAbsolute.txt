@@ -1,0 +1,178 @@
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\appsettings.Development.json
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\appsettings.json
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\firstSelenium.staticwebassets.runtime.json
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\firstSelenium.exe
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\firstSelenium.deps.json
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\firstSelenium.runtimeconfig.json
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\firstSelenium.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\firstSelenium.pdb
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Humanizer.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\MySqlConnector.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\WebDriver.dll
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.csproj.AssemblyReference.cache
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.AssemblyInfoInputs.cache
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.AssemblyInfo.cs
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.csproj.CoreCompileInputs.cache
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.MvcApplicationPartsAssemblyInfo.cache
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.RazorAssemblyInfo.cache
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.RazorAssemblyInfo.cs
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\staticwebassets.build.json
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\staticwebassets.development.json
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\scopedcss\bundle\firstSelenium.styles.css
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\scopedcss\projectbundle\firstSelenium.bundle.scp.css
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.csproj.CopyComplete
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.dll
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\refint\firstSelenium.dll
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.pdb
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.genruntimeconfig.cache
+C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\ref\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.csproj.AssemblyReference.cache
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.AssemblyInfoInputs.cache
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.AssemblyInfo.cs
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.csproj.CoreCompileInputs.cache
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.RazorAssemblyInfo.cache
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.RazorAssemblyInfo.cs
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\refint\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.pdb
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\appsettings.json
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\firstSelenium.staticwebassets.runtime.json
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\firstSelenium.exe
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\firstSelenium.deps.json
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\firstSelenium.runtimeconfig.json
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\firstSelenium.pdb
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Utils.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\scopedcss\bundle\firstSelenium.styles.css
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\scopedcss\projectbundle\firstSelenium.bundle.scp.css
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.csproj.CopyComplete
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\firstSelenium.genruntimeconfig.cache
+C:\Users\Coding Dojo\Desktop\firstSelenium\obj\Debug\net6.0\ref\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.Dynamic.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.Scripting.Metadata.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Microsoft.Scripting.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\IronPython.Modules.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\IronPython.SQLite.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\IronPython.Wpf.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\IronPython.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\Mono.Unix.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\firstSelenium\bin\Debug\net6.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.csproj.AssemblyReference.cache
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.AssemblyInfoInputs.cache
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.AssemblyInfo.cs
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.csproj.CoreCompileInputs.cache
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.RazorAssemblyInfo.cache
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.RazorAssemblyInfo.cs
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\refint\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.pdb
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\appsettings.json
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\firstSelenium.staticwebassets.runtime.json
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\firstSelenium.exe
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\firstSelenium.deps.json
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\firstSelenium.runtimeconfig.json
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\firstSelenium.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\firstSelenium.pdb
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.Dynamic.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.Scripting.Metadata.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.Scripting.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\IronPython.Modules.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\IronPython.SQLite.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\IronPython.Wpf.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\IronPython.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Mono.Unix.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\Utils.dll
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\bin\Debug\net6.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\scopedcss\bundle\firstSelenium.styles.css
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\scopedcss\projectbundle\firstSelenium.bundle.scp.css
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.csproj.CopyComplete
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\firstSelenium.genruntimeconfig.cache
+C:\Users\Coding Dojo\Desktop\EasierApply\obj\Debug\net6.0\ref\firstSelenium.dll

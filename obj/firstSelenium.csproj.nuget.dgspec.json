@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Coding Dojo\\Desktop\\EasierApply\\firstSelenium.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Coding Dojo\\Desktop\\EasierApply\\firstSelenium.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Coding Dojo\\Desktop\\EasierApply\\firstSelenium.csproj",
+        "projectName": "firstSelenium",
+        "projectPath": "C:\\Users\\Coding Dojo\\Desktop\\EasierApply\\firstSelenium.csproj",
+        "packagesPath": "C:\\Users\\Coding Dojo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Coding Dojo\\Desktop\\EasierApply\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coding Dojo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IronPython": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[85.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[108.0.5359.2200, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Utils": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

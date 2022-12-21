@@ -1,0 +1,37 @@
+<style>
+    html {
+        height: 100%;
+    }
+
+    body {
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+        background: linear-gradient(90deg, rgba(59, 109, 122, 1) 0%, rgba(20, 26, 60, 1) 50%, rgba(59, 109, 122, 1) 100%);
+    }
+</style>
+
+<body class="back-row-toggle splat-toggle">
+    <div class="d-flex justify-content-center mt-3">
+        <h1 class="juice text-center mb-3 pb-3">now let it rain</h1>
+    </div>
+    <div class="d-flex justify-content-center">
+        <div class="pyramid">
+            <div class="base"></div>
+            <div class="side one"></div>
+            <div class="side two"></div>
+            <div class="side three"></div>
+            <div class="side four"></div>
+        </div>
+    </div>
+    <div class="rain front-row"></div>
+    <div class="rain back-row"></div>
+    <div class="toggles">
+        <audio id="player" src="~/getAJob.mp3"></audio>
+        <button class="music-toggle toggle active" onclick="document.getElementById('player').play()">PLAY</button>
+        <button class="music-toggle2 toggle active" onclick="document.getElementById('player').pause()">PAUSE</button>
+        <div class="splat-toggle toggle active">SPLAT</div>
+        <div class="back-row-toggle toggle active">BACK</div>
+        <div class="single-toggle toggle">SINGLE</div>
+    </div>
+</body>

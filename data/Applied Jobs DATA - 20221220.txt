@@ -1,0 +1,89 @@
+---- Applied Jobs Data ---- created at: 20221220
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+ Category: frontend developer, Location: Miami, Applying 7 results jobs.
+1 | Software Engineer | X4 Alpha | Miami, FL | Hybrid | 4 days ago | 45 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3399503968
+2 | Senior Frontend Developer | Qualified Digital | United States | Remote | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401831582
+3 | Frontend Developer | Nesco Resource | United States | Remote | 3 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3403378142
+4 | Frontend Developer | O'Reilly Auto Parts | United States | Remote | 6 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3393641037
+5 | Frontend Developer | Halian | United States | Remote | 4 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3402741337
+6 | Sr. Full Stack Node. JS Developer | Akkodis | United States | Remote | 21 hours ago | 53 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402907636
+7 | Senior React Developer with AEM Experience | Infosys | United States | Remote | 5 days ago | 56 applicants | * 🥵 4 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3396515644
+
+ Category: react, Location: Miami, Applying 55 results jobs.
+8 | Full Stack Engineer | Paramount Software Solutions, Inc | United States | Remote | 1 hour ago | 18 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3404163038
+9 | Software Engineer | Cyberitas Technologies | United States | Remote | 4 hours ago | 37 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401243311
+10 | Python Developer | CryptoFi | United States | Remote | 21 minutes ago | 20 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3401294429
+11 | Full Stack Engineer | Xaqt | United States | Remote | 19 hours ago | 185 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3400304316
+12 | Software Developer | Jobot | Miami, FL | Remote | 4 days ago | 22 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3399512171
+13 | Full Stack Engineer | Oncue | United States | Remote | 4 hours ago | 116 applicants | * 🥵 4 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3401246022
+14 | Senior Frontend Developer | Qualified Digital | United States | Remote | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401831582
+15 | Full Stack Developer (Mid) | MetroStar | United States | Remote | 17 hours ago | 75 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3402949508
+
+ Category: frontend developer, Location: Miami, Applying 6 results jobs.
+1 | Software Engineer | X4 Alpha | Miami, FL | Hybrid | 4 days ago | 45 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3399503968
+2 | Senior Frontend Developer | Qualified Digital | United States | Remote | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401831582
+3 | Frontend Developer | Nesco Resource | United States | Remote | 3 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3403378142
+4 | Frontend Developer | O'Reilly Auto Parts | United States | Remote | 6 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3393641037
+5 | Frontend Developer | Halian | United States | Remote | 4 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3402741337
+
+ Category: frontend developer, Location: Miami, Applying 7 results jobs.
+1 | Software Engineer | X4 Alpha | Miami, FL | Hybrid | 4 days ago | 45 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3399503968
+2 |  |  |  |  |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401831582
+
+ Category: frontend developer, Location: Miami, Applying 7 results jobs.
+1 | Software Engineer | X4 Alpha | Miami, FL | Hybrid | 4 days ago | 45 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3399503968
+2 | Senior Frontend Developer | Qualified Digital | United States | Remote | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401831582
+3 |  |  |  |  |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3403378142
+
+ Category: software engineer, Location: Miami, Applying 281 results jobs.
+1 | Electrical Engineer | WAI | Miramar, FL | Hybrid | 4 days ago | 9 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402795213
+2 | Manufacturing Engineer | HCLTech | Davie, FL | Hybrid | 3 days ago | 37 applicants | * 🥵 Cannot apply to this Job! https://www.linkedin.com/jobs/view/3400026000
+3 | Data Analyst | OZ | Fort Lauderdale, FL | Hybrid | 6 days ago | 186 applicants | * 🥵 Cannot apply to this Job! https://www.linkedin.com/jobs/view/3396150084
+
+ Category: software engineer, Location: Miami, Applying 283 results jobs.
+1 | Electrical Engineer | WAI | Miramar, FL | Hybrid | 4 days ago | 9 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402795213
+2 | Manufacturing Engineer | HCLTech | Davie, FL | Hybrid | 3 days ago | 37 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3400026000
+
+ Category: software engineer, Location: Miami, Applying 282 results jobs.
+1 | Electrical Engineer | WAI | Miramar, FL | Hybrid | 4 days ago | 9 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402795213
+2 | Manufacturing Engineer | HCLTech | Davie, FL | Hybrid | 3 days ago | 37 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3400026000
+3 | Data Analyst | OZ | Fort Lauderdale, FL | Hybrid | 6 days ago | 186 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3396150084
+4 | Software Engineer | X4 Alpha | Miami, FL | Hybrid | 4 days ago | 45 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3399503968
+
+ Category: software engineer, Location: Miami, Applying 202 results jobs.
+1 | Electrical Engineer | WAI | Miramar, FL | Hybrid | 4 days ago | 9 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402795213
+2 | Data Analyst | OZ | Fort Lauderdale, FL | Hybrid | 6 days ago | 190 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3396150084
+
+ Category: software engineer, Location: Miami, Applying 202 results jobs.
+
+ Category: software engineer, Location: Miami, Applying 202 results jobs.
+1 | Electrical Engineer | WAI | Miramar, FL | Hybrid | 4 days ago | 9 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3402795213
+1 |  |  |  |  |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3402795213
+
+ Category: software engineer, Location: Miami, Applying 196 results jobs.
+
+ Category: software engineer, Location: Miami, Applying 194 results jobs.
+1 | Electrical Engineer | WAI | Miramar, FL | Hybrid | 4 days ago | 9 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402795213
+2 | Technical Lead | GalaxE.Solutions | Miami-Fort Lauderdale Area | Hybrid | 4 hours ago | 1 applicant | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3401713722
+3 | Salesforce Developer-100% remote- No C2C | Vaco | Fort Lauderdale, FL | Remote | 7 hours ago | 56 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3401297004
+4 | Compensation Data Analyst | Ascendo Resources | Miami, FL | Hybrid | 4 days ago | 42 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402877202
+5 | Software Engineer | Cybernetic Search | United States | Remote | 1 hour ago | 14 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3404847695
+6 | Account Manager | Jarvis Elliott | Miami-Fort Lauderdale Area | Remote | 5 days ago |  | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402181073
+7 | Data Analyst | OZ | Fort Lauderdale, FL | Hybrid | 6 days ago | 190 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3396150084
+8 | Full Stack Engineer | Home Care Pulse | United States | Remote | 2 hours ago | 28 applicants | * 🥵 4 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3401743217
+9 | Blockchain Software Engineer | EXECTAP, Inc. | United States | Remote | 5 days ago | 32 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3395111948
+10 | Full-Stack Developer | Beef Jerky Experience | United States | Remote | 5 hours ago | 72 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3401255272
+11 | Software Developer | Jobot | Miami, FL | Remote | 4 days ago | 22 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3399512171
+12 | Application Developer | Belcan | United States | Remote | 4 days ago | 73 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3399098244
+13 | Full Stack Engineer | ProArch Consulting Services Private Limited | United States | Remote | 5 hours ago | 21 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3407563263
+14 | Software Engineer | AI Squared | United States | Remote | 7 hours ago | 138 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3404180700
+15 |  |  |  |  |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401243311
+
+ Category: software engineer, Location: Miami, Applying 194 results jobs.
+1 | Electrical Engineer | WAI | Miramar, FL | Hybrid | 4 days ago | 9 applicants | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402795213
+2 | Technical Lead | GalaxE.Solutions | Miami-Fort Lauderdale Area | Hybrid | 4 hours ago | 2 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401713722
+3 | Salesforce Developer-100% remote- No C2C | Vaco | Fort Lauderdale, FL | Remote | 7 hours ago | 57 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401297004
+4 | Compensation Data Analyst | Ascendo Resources | Miami, FL | Hybrid | 4 days ago | 42 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402877202
+5 | Software Engineer | Cybernetic Search | United States | Remote | 1 hour ago | 15 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3404847695
+6 | Account Manager | Jarvis Elliott | Miami-Fort Lauderdale Area | Remote | 5 days ago |  | * 🥵 Cannot apply to this Job! https://www.linkedin.com/jobs/view/3402181073

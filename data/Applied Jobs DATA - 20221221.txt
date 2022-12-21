@@ -1,0 +1,11 @@
+---- Applied Jobs Data ---- created at: 20221221
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+ Category: software engineer, Location: Miami, Applying 229 results jobs.
+1 | Technical Lead | GalaxE.Solutions | Miami-Fort Lauderdale Area | Hybrid | 23 hours ago | 8 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3401713722
+2 | Account Manager | Jarvis Elliott | Miami-Fort Lauderdale Area | Remote | 6 days ago |  | * 🥵 Cannot apply to this Job! https://www.linkedin.com/jobs/view/3402181073
+
+ Category: software engineer, Location: Miami, Applying 228 results jobs.
+1 | Senior Quality Engineer | GalaxE.Solutions | Miami-Fort Lauderdale Area | Hybrid | 1 day ago | 6 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3401716430
+2 | Account Manager | Jarvis Elliott | Miami-Fort Lauderdale Area | Remote | 6 days ago |  | * 🥵 2 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3402181073
+3 | Full-Stack Software Development Engineer | Speak_ | United States | Remote | 3 hours ago | 138 applicants | * 🥵 Cannot apply to this Job! https://www.linkedin.com/jobs/view/3403241009
