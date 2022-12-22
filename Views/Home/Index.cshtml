@@ -1,17 +1,30 @@
 ﻿@{
   ViewData["Title"] = "Home Page";
 }
-@model Program
+@model PythonPath
 <div class="d-flex justify-content-center mt-3 ">
   <h1 class="juice text-center mb-3 pb-3">a juice worth the squeeze</h1>
 </div>
+@{
+  if (ViewBag.HasError == true)
+  {
+    <div class="d-flex justify-content-center mt-3 ">
+      <div class="alert alert-primary" role="alert">
+        Your Python Path is Incorrect!
+      </div>
+    </div>
+  }
+}
 <p class="time text-center">Click the sphere to get started</p>
 <div class="d-flex justify-content-center">
-  <a href=@Url.Action("TestImports")>Test Imports</a>
+  @* <a href=@Url.Action("TestImports")>Test Imports</a> *@
+  <a asp-action="TestImports" asp-controller="Home">Test Imports</a>
 </div>
 <div class="d-flex justify-content-center mt-3 ">
   <section class="stage">
-    <a class="bigbutton" href=@Url.Action("ApplyToJobs")><span class="shadow"></span></a>
+    <a class="bigbutton" asp-action="ApplyToJobs" asp-controller="Home"><span
+        class="shadow"></a>
+    @* <a class="bigbutton" href=@Url.Action("ApplyToJobs(ViewBag.PythonPathId)")><span class="shadow"></span></a> *@
   </section>
 </div>
 <div class="d-flex justify-content-center">
@@ -23,6 +36,20 @@
     <div class="side four"></div>
   </div>
 </div>
+@{
+  if (ViewBag.ItExists == null)
+  {
+    <div class="d-flex justify-content-center">
+      @await Html.PartialAsync("_NewPath")
+    </div>
+  }
+  else
+  {
+    <div class="d-flex justify-content-center">
+      @await Html.PartialAsync("_UpdatePath")
+    </div>
+  }
+}
 <div class="text-center d-flex justify-content-center">
   <h3 class=" time text-center">This is what you've always wanted!</h3>
 </div>

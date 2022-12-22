@@ -1,8 +1,11 @@
 import time,math,random,os
+# import utils as utils,constants,models.config as config
 import utils,constants,config
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from utils import prRed,prYellow,prGreen
 
 from webdriver_manager.chrome import ChromeDriverManager
@@ -15,9 +18,8 @@ class Linkedin:
             prYellow("Trying to log in linkedin.")
         except Exception as e:
             prRed("Warning ChromeDriver"+ str(e))
-        time.sleep(40)
         # If you want to insert your login info into Config.py and have the bot automatically
-        # login for you on LinkedIn, comment back in lines 21-29 and comment line 18.
+        # login for you on LinkedIn, comment back in lines 21-29 and comment lines 46-49.
         # try:    
         #     self.driver.find_element("id","username").send_keys(config.email)
         #     time.sleep(5)
@@ -42,6 +44,10 @@ class Linkedin:
             prRed("Couldnt generate url, make sure you have /data folder and modified config.py file for your preferances.")
 
     def linkJobApply(self):
+        try:
+            WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, "//li[contains(@class, 'global-nav__primary-item')]")))
+        except: 
+            self.driver.quit()
         self.generateUrls()
         countApplied = 0
         countJobs = 0

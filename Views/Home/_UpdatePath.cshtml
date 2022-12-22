@@ -1,0 +1,10 @@
+@model PythonPath
+
+<form asp-action="UpdatePath" asp-controller="Home" asp-route-PythonPathId="1" method="post">
+    <label asp-for="Path" class="time ms-1"><strong>Update your Python.exe Path</strong></label>
+    <input asp-for="Path" class="form-control mt-2">
+    <span asp-validation-for="Path" class="text-danger  ms-4 ps-2"></span>
+    <div class="d-flex justify-content-center">
+        <input type="submit" class="btn time">
+    </div>
+</form>
